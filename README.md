@@ -10,4 +10,5 @@ Critically, monolinguals taken from ADNI had clinical diagnoses of normal cognit
 The monolinguals who were matched to bilinguals had worse clinical and cognitive outcomes than by chance alone as seen by a one proportion null distribution.
 
 Published study: https://link.springer.com/article/10.1007/s00429-020-02185-5
+
 doi: 10.1007/s00429-020-02185-5
